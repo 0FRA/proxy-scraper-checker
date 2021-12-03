@@ -1,5 +1,6 @@
-<h1 align="center">proxy-scraper-checker [simple-output]</h1>
-<p align="center"><img src="screenshot.png" alt="Screenshot" /></p>
+# proxy-scraper-checker [simple-output]
+
+![Screenshot](screenshot.png)
 
 Check free anonymous HTTP, SOCKS4, SOCKS5 proxies from different sources. Supports determining exit-node's geolocation for each proxy.
 
